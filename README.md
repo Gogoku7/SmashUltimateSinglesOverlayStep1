@@ -1,4 +1,6 @@
 # SmashUltimateSinglesOverlayStep1
+Not actively in development, use the Livestream Production Manager instead for the latest and greatest: https://github.com/Gogoku7/LivestreamProductionManager
+
 Step 1 of a project to create a dynamically editable overlay for Super Smash Bros. Ultimate Singles usable for any tournament streamer using HTML, JavaScript, CSS and C#.
 
 **How to use in Open Broadcaster Software (OBS Studio):**
